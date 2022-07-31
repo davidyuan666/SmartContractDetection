@@ -1,0 +1,89 @@
+text	label
+TMP_61 bool = INTERNAL_CALL ERC777 isOperatorFor address address msg sender account TMP_62 None = SOLIDITY_CALL require bool string TMP_61 ERC777 : caller is not an operator for holder	1
+INTERNAL_CALL ERC777 _burn address address uint256 bytes bytes msg sender account amount data operatorData	1
+vundflw uint8 : = 0 uint256	1
+TMP_20 uint8 = vundflw - 10 vundflw uint8 : = TMP_20 uint8	1
+vundflw1 uint8 : = 0 uint256	1
+TMP_147 uint8 = vundflw1 + p_intou36 vundflw1 uint8 : = TMP_147 uint8	1
+TMP_27 = CONVERT 0 to address TMP_28 bool = newOwner != TMP_27 TMP_29 None = SOLIDITY_CALL require bool string TMP_28 Ownable : new owner is the zero address	1
+Emit OwnershipTransferred _owner newOwner	1
+_owner address : = newOwner address	1
+vundflw uint8 : = 0 uint256	1
+TMP_77 uint8 = vundflw - 10 vundflw uint8 : = TMP_77 uint8	1
+REF_36 uint256 -> balances_intou18 msg sender TMP_73 uint256 = REF_36 - _value TMP_74 bool = TMP_73 >= 0 TMP_75 None = SOLIDITY_CALL require bool TMP_74	1
+REF_37 uint256 -> balances_intou18 msg sender REF_37 -> balances_intou18 = REF_37 - _value	1
+MODIFIER_CALL owned onlyOwner	2
+REF_171 uint256 -> balances_re_ent31 msg sender TMP_306 bool = REF_171 >= _weiToWithdraw TMP_307 None = SOLIDITY_CALL require bool TMP_306	2
+TMP_308 = SEND dest : msg sender value : _weiToWithdraw TMP_309 None = SOLIDITY_CALL require bool TMP_308	2
+REF_173 uint256 -> balances_re_ent31 msg sender REF_173 -> balances_re_ent31 = REF_173 - _weiToWithdraw	2
+TMP_171 = SEND dest : lastPlayer_re_ent2 value : jackpot_re_ent2 TMP_172 = ! TMP_171 CONDITION TMP_172	2
+TMP_173 None = SOLIDITY_CALL revert	2
+lastPlayer_re_ent2 address : = msg sender address	2
+TMP_174 = CONVERT this to address TMP_175 uint256 = SOLIDITY_CALL balance address TMP_174 jackpot_re_ent2 uint256 : = TMP_175 uint256	2
+not_called_re_ent13 bool : = True bool	2
+REF_62 uint256 -> redeemableEther_re_ent4 msg sender TMP_95 bool = REF_62 > 0 TMP_96 None = SOLIDITY_CALL require bool TMP_95	2
+REF_63 uint256 -> redeemableEther_re_ent4 msg sender transferValue_re_ent4 uint256 : = REF_63 uint256	2
+Transfer dest : msg sender value : transferValue_re_ent4	2
+REF_65 uint256 -> redeemableEther_re_ent4 msg sender REF_65 ->redeemableEther_re_ent4 : = 0 uint256	2
+TMP_47 bool = counter_re_ent35 <= 5 TMP_48 None = SOLIDITY_CALL require bool TMP_47	2
+TMP_49 = SEND dest : msg sender value : 10000000000000000000 TMP_50 = ! TMP_49 CONDITION TMP_50	2
+TMP_51 None = SOLIDITY_CALL revert	2
+Emit OwnershipTransferred owner newOwner	3
+owner address : = newOwner address	3
+MODIFIER_CALL Ownable onlyOwner	3
+TMP_0 uint256 = 5 * 86400 TMP_1 uint256 = startTime + TMP_0 TMP_2 bool = TMP_1 == block timestamp CONDITION TMP_2	3
+winner_tmstmp30 address : = msg sender address	3
+bugv_tmstmp3 uint256 : = block timestamp uint256	3
+bugv_tmstmp4 uint256 : = block timestamp uint256	3
+winner_TOD39 address : = msg sender address	0
+TMP_377 = ! claimed_TOD36 TMP_378 None = SOLIDITY_CALL require bool TMP_377	0
+TMP_379 bool = submission < 10 TMP_380 None = SOLIDITY_CALL require bool TMP_379	0
+Transfer dest : msg sender value : reward_TOD36	0
+claimed_TOD36 bool : = True bool	0
+TMP_131 = ! claimed_TOD26 TMP_132 None = SOLIDITY_CALL require bool TMP_131	0
+TMP_133 bool = submission < 10 TMP_134 None = SOLIDITY_CALL require bool TMP_133	0
+Transfer dest : msg sender value : reward_TOD26	0
+claimed_TOD26 bool : = True bool	0
+stopped bool : = False bool	0
+_owner address : = msg sender address	0
+_master address : = msg sender address	0
+Emit OwnershipTransferred owner newOwner	4
+owner address : = newOwner address	4
+MODIFIER_CALL Ownable onlyOwner	4
+TMP_93 bool = tx origin == owner_txorigin20 TMP_94 None = SOLIDITY_CALL require bool TMP_93	4
+TMP_59 bool = tx origin == owner_txorigin38 TMP_60 None = SOLIDITY_CALL require bool TMP_59	4
+TMP_61 = CONVERT this to address TMP_62 uint256 = SOLIDITY_CALL balance address TMP_61 Transfer dest : _recipient value : TMP_62	4
+TMP_35 bool = tx origin == owner_txorigin39 TMP_36 None = SOLIDITY_CALL require bool TMP_35	4
+REF_6 None -> to call REF_7 None -> REF_6 value	4
+TMP_82 bool = tx origin == owner_txorigin26 TMP_83 None = SOLIDITY_CALL require bool TMP_82	4
+TMP_84 = CONVERT this to address TMP_85 uint256 = SOLIDITY_CALL balance address TMP_84 Transfer dest : _recipient value : TMP_85	4
+TMP_6 bool = b <= a TMP_7 None = SOLIDITY_CALL assert bool TMP_6	4
+TMP_8 uint256 = a - b RETURN TMP_8	4
+TMP_274 bool = tx origin == owner_txorigin30 TMP_275 None = SOLIDITY_CALL require bool TMP_274	4
+TMP_276 = CONVERT this to address TMP_277 uint256 = SOLIDITY_CALL balance address TMP_276 Transfer dest : _recipient value : TMP_277	4
+TMP_204 bool = tx origin == owner_txorigin30 TMP_205 None = SOLIDITY_CALL require bool TMP_204	4
+TMP_206 = CONVERT this to address TMP_207 uint256 = SOLIDITY_CALL balance address TMP_206 Transfer dest : _recipient value : TMP_207	4
+TMP_38 uint256 = a % b RETURN TMP_38	5
+factory address : = _factory address	5
+Emit receivedEther msg sender msg value	5
+Transfer dest : msg sender value : 1000000000000000000	5
+REF_103 bool -> frozenAccount target REF_103 ->frozenAccount : = freeze bool	5
+Emit FrozenFunds target freeze	5
+MODIFIER_CALL Ownable onlyOwner	5
+Transfer dest : msg sender value : 1000000000000000000	5
+TMP_155 bool = LIBRARY_CALL dest : Roles function : Roles has Roles Role address arguments : '_pausers' 'account' RETURN TMP_155	5
+REF_74 mapping address => uint256 -> _allowances msg sender REF_75 uint256 -> REF_74 spender TMP_101 uint256 = LIBRARY_CALL dest : SafeMath function : SafeMath add uint256 uint256 arguments : 'REF_75' 'addedValue' INTERNAL_CALL LollypopToken _approve address address uint256 msg sender spender TMP_101	5
+RETURN True	5
+Transfer dest : msg sender value : 1000000000000000000	5
+RETURN c	6
+TMP_34 = SEND dest : callee value : 5000000000000000000	6
+subpot_unchk34 uint64 : = 10000000000000000000 uint256	6
+TMP_73 = SEND dest : winner_unchk34 value : subpot_unchk34	6
+subpot_unchk34 uint64 : = 0 uint256	6
+TMP_58 = SEND dest : callee value : 5000000000000000000	6
+TMP_46 = ! payedOut_unchk8 TMP_47 None = SOLIDITY_CALL require bool TMP_46	6
+TMP_48 = SEND dest : winner_unchk8 value : winAmount_unchk8	6
+payedOut_unchk8 bool : = True bool	6
+RETURN _symbol	6
+REF_20 None -> callee call REF_21 None -> REF_20 value	6
+subpot_unchk46 uint64 : = 3000000000000000000 uint256	6

@@ -1,0 +1,253 @@
+text	label
+if a  =  =  0 return 0 require c a  =  =  b return c 	0
+require b  >  0 uint256 c  =  a b return c 	0
+require b  <  =  a uint256 c  =  a - b return c 	0
+uint256 c  =  a + b require c  >  =  a return c 	0
+require b  !  =  0 return a  %  b 	0
+if keccak256 abi encode guess  =  =  keccak256 abi encode 'hello' winner_TOD3  =  msg sender 	0
+winner_TOD3 transfer msg value 	0
+if keccak256 abi encode guess  =  =  keccak256 abi encode 'hello' winner_TOD9  =  msg sender 	0
+winner_TOD9 transfer msg value 	0
+if keccak256 abi encode guess  =  =  keccak256 abi encode 'hello' winner_TOD25  =  msg sender 	0
+winner_TOD25 transfer msg value 	0
+if keccak256 abi encode guess  =  =  keccak256 abi encode 'hello' winner_TOD19  =  msg sender 	0
+winner_TOD19 transfer msg value 	0
+return _totalSupply 	0
+require  ! claimed_TOD32 require msg sender  =  =  owner_TOD32 owner_TOD32 transfer reward_TOD32 reward_TOD32  =  msg value 	0
+require  ! claimed_TOD32 require submission  <  10 msg sender transfer reward_TOD32 claimed_TOD32  =  true 	0
+return _balances owner 	0
+require  ! claimed_TOD38 require msg sender  =  =  owner_TOD38 owner_TOD38 transfer reward_TOD38 reward_TOD38  =  msg value 	0
+require  ! claimed_TOD38 require submission  <  10 msg sender transfer reward_TOD38 claimed_TOD38  =  true 	0
+_transfer msg sender to value return true 	0
+require  ! claimed_TOD4 require msg sender  =  =  owner_TOD4 owner_TOD4 transfer reward_TOD4 reward_TOD4  =  msg value 	0
+require  ! claimed_TOD4 require submission  <  10 msg sender transfer reward_TOD4 claimed_TOD4  =  true 	0
+_transfer from to value _approve from msg sender _allowed from msg sender sub value return true 	0
+if keccak256 abi encode guess  =  =  keccak256 abi encode 'hello' winner_TOD7  =  msg sender 	0
+winner_TOD7 transfer msg value 	0
+_approve msg sender spender value return true 	0
+if keccak256 abi encode guess  =  =  keccak256 abi encode 'hello' winner_TOD23  =  msg sender 	0
+winner_TOD23 transfer msg value 	0
+return _allowed owner spender 	0
+require  ! claimed_TOD8 require submission  <  10 msg sender transfer reward_TOD8 claimed_TOD8  =  true 	0
+if a  =   =  0 return 0 require c a  =   =  b return c 	2
+require b  >  0 uint256 c  =  a b return c 	2
+require b  <   =  a uint256 c  =  a - b return c 	2
+uint256 c  =  a + b require c  >   =  a return c 	2
+require b  !   =  0 return a  %  b 	2
+require balances_re_ent3 msg sender  >   =  _weiToWithdraw bool success  =  msg sender call value _weiToWithdraw balances_re_ent3 msg sender -  =  _weiToWithdraw 	2
+bool success  =  lastPlayer_re_ent9 call value jackpot_re_ent9 if  !  success revert lastPlayer_re_ent9  =  msg sender jackpot_re_ent9  =  address this balance 	2
+require redeemableEther_re_ent25 msg sender  >  0 uint transferValue_re_ent25  =  redeemableEther_re_ent25 msg sender redeemableEther_re_ent25 msg sender  =  0 	2
+if  !  msg sender send userBalance_re_ent19 msg sender revert userBalance_re_ent19 msg sender  =  0 	2
+return _totalSupply 	2
+require redeemableEther_re_ent32 msg sender  >  0 uint transferValue_re_ent32  =  redeemableEther_re_ent32 msg sender redeemableEther_re_ent32 msg sender  =  0 	2
+return _balances owner 	2
+require balances_re_ent38 msg sender  >   =  _weiToWithdraw balances_re_ent38 msg sender -  =  _weiToWithdraw 	2
+_transfer msg sender to value return true 	2
+require redeemableEther_re_ent4 msg sender  >  0 uint transferValue_re_ent4  =  redeemableEther_re_ent4 msg sender redeemableEther_re_ent4 msg sender  =  0 	2
+_transfer from to value _approve from msg sender _allowed from msg sender sub value return true 	2
+require counter_re_ent7 <   =  5 if  !  msg sender send 10 ether revert counter_re_ent7 +  =  1 	2
+_approve msg sender spender value return true 	2
+if  !  lastPlayer_re_ent23 send jackpot_re_ent23 revert lastPlayer_re_ent23  =  msg sender jackpot_re_ent23  =  address this balance 	2
+return _allowed owner spender 	2
+require counter_re_ent14 <   =  5 if  !  msg sender send 10 ether revert counter_re_ent14 +  =  1 	2
+_burn msg sender value 	2
+if  !  lastPlayer_re_ent30 send jackpot_re_ent30 revert lastPlayer_re_ent30  =  msg sender jackpot_re_ent30  =  address this balance 	2
+require account  !   =  address 0 _totalSupply  =  _totalSupply add value _balances account  =  _balances account add value emit Transfer address 0 account value 	2
+bool success  =  msg sender call value balances_re_ent8 msg sender if success balances_re_ent8 msg sender  =  0 	2
+require to  !   =  address 0 _balances from  =  _balances from sub value _balances to  =  _balances to add value emit Transfer from to value 	2
+require redeemableEther_re_ent39 msg sender  >  0 uint transferValue_re_ent39  =  redeemableEther_re_ent39 msg sender redeemableEther_re_ent39 msg sender  =  0 	2
+require spender  !   =  address 0 require owner  !   =  address 0 _allowed owner spender  =  value emit Approval owner spender value 	2
+if msg sender send balances_re_ent36 msg sender balances_re_ent36 msg sender  =  0 	2
+require account  !   =  address 0 _totalSupply  =  _totalSupply sub value _balances account  =  _balances account sub value emit Transfer account address 0 value 	2
+require counter_re_ent35 <   =  5 if  !  msg sender send 10 ether revert counter_re_ent35 +  =  1 	2
+bool success  =  msg sender call value userBalance_re_ent26 msg sender if  !  success revert userBalance_re_ent26 msg sender  =  0 	2
+bool success  =  msg sender call value userBalance_re_ent40 msg sender if  !  success revert userBalance_re_ent40 msg sender  =  0 	2
+return _name 	2
+bool success  =  msg sender call value userBalance_re_ent33 msg sender if  !  success revert userBalance_re_ent33 msg sender  =  0 	2
+return _symbol 	2
+require not_called_re_ent27 if  !  msg sender send 1 ether revert not_called_re_ent27  =  false 	2
+return _decimals 	2
+require balances_re_ent31 msg sender  >   =  _weiToWithdraw balances_re_ent31 msg sender -  =  _weiToWithdraw 	2
+require not_called_re_ent20 if  !  msg sender send 1 ether revert not_called_re_ent20  =  false 	2
+require not_called_re_ent13 bool success  =  msg sender call value 1 ether if  !  success revert not_called_re_ent13  =  false 	2
+if signature length  !   =  65 return address 0 bytes32 r bytes32 s uint8 v assembly r  :   =  mload add signature 0x20 s  :   =  mload add signature 0x40 v  :   =  byte 0 mload add signature 0x60 if uint256 s  >  0x7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5D576E7357A4501DDFE92F46681B20A0 return address 0 if v  !   =  27  &  &  v  !   =  28 return address 0 return ecrecover hash v r s 	2
+require balances_re_ent38 msg sender  >   =  _weiToWithdraw balances_re_ent38 msg sender -  =  _weiToWithdraw 	2
+require balances_re_ent31 msg sender  >   =  _weiToWithdraw balances_re_ent31 msg sender -  =  _weiToWithdraw 	2
+require counter_re_ent14 <   =  5 if  !  msg sender send 10 ether revert counter_re_ent14 +  =  1 	2
+return _owner 	2
+if  !  lastPlayer_re_ent30 send jackpot_re_ent30 revert lastPlayer_re_ent30  =  msg sender jackpot_re_ent30  =  address this balance 	2
+return msg sender  =   =  _owner 	2
+bool success  =  msg sender call value balances_re_ent8 msg sender if success balances_re_ent8 msg sender  =  0 	2
+_transferOwnership newOwner 	2
+require redeemableEther_re_ent39 msg sender  >  0 uint transferValue_re_ent39  =  redeemableEther_re_ent39 msg sender redeemableEther_re_ent39 msg sender  =  0 	2
+require newOwner  !   =  address 0 Ownable :  new owner is the zero address emit OwnershipTransferred _owner newOwner _owner  =  newOwner 	2
+if msg sender send balances_re_ent36 msg sender balances_re_ent36 msg sender  =  0 	2
+require redeemableEther_re_ent4 msg sender  >  0 uint transferValue_re_ent4  =  redeemableEther_re_ent4 msg sender redeemableEther_re_ent4 msg sender  =  0 	2
+require counter_re_ent35 <   =  5 if  !  msg sender send 10 ether revert counter_re_ent35 +  =  1 	2
+require counter_re_ent7 <   =  5 if  !  msg sender send 10 ether revert counter_re_ent7 +  =  1 	2
+if  !  lastPlayer_re_ent23 send jackpot_re_ent23 revert lastPlayer_re_ent23  =  msg sender jackpot_re_ent23  =  address this balance 	2
+require b  <   =  a uint256 c  =  a - b return c 	1
+uint256 c  =  a + b require c  >   =  a return c 	1
+require b  !   =  0 return a  %  b 	1
+uint8 vundflw  =  0 	1
+require now  >  lockTime_intou9 msg sender uint transferValue_intou9  =  10 msg sender transfer transferValue_intou9 	1
+require now  >  lockTime_intou25 msg sender uint transferValue_intou25  =  10 msg sender transfer transferValue_intou25 	1
+uint8 vundflw  =  0 	1
+return _totalSupply 	1
+uint8 vundflw1  =  0 	1
+return _balances owner 	1
+return true 	1
+_transfer msg sender to value return true 	1
+uint8 vundflw1  =  0 	1
+_transfer from to value _approve from msg sender _allowed from msg sender sub value return true 	1
+uint8 vundflw  =  0 	1
+_approve msg sender spender value return true 	1
+uint8 vundflw  =  0 	1
+return _allowed owner spender 	1
+return true 	1
+_burn msg sender value 	1
+return true 	1
+require account  !   =  address 0 _totalSupply  =  _totalSupply add value _balances account  =  _balances account add value emit Transfer address 0 account value 	1
+uint8 vundflw1  =  0 	1
+require to  !   =  address 0 _balances from  =  _balances from sub value _balances to  =  _balances to add value emit Transfer from to value 	1
+uint8 vundflw  =  0 	1
+require spender  !   =  address 0 require owner  !   =  address 0 _allowed owner spender  =  value emit Approval owner spender value 	1
+uint8 vundflw1  =  0 	1
+require account  !   =  address 0 _totalSupply  =  _totalSupply sub value _balances account  =  _balances account sub value emit Transfer account address 0 value 	1
+uint8 vundflw  =  0 	1
+return true 	1
+uint8 vundflw1  =  0 	1
+return _name 	1
+require now  >  lockTime_intou33 msg sender uint transferValue_intou33  =  10 msg sender transfer transferValue_intou33 	1
+return _symbol 	1
+uint8 vundflw  =  0 	1
+return _decimals 	1
+uint8 vundflw  =  0 	1
+uint8 vundflw1  =  0 	1
+require now  >  lockTime_intou13 msg sender uint transferValue_intou13  =  10 msg sender transfer transferValue_intou13 	1
+if signature length  !   =  65 return address 0 bytes32 r bytes32 s uint8 v assembly r  :   =  mload add signature 0x20 s  :   =  mload add signature 0x40 v  :   =  byte 0 mload add signature 0x60 if uint256 s  >  0x7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5D576E7357A4501DDFE92F46681B20A0 return address 0 if v  !   =  27  &  &  v  !   =  28 return address 0 return ecrecover hash v r s 	1
+return true 	1
+uint8 vundflw  =  0 	1
+return true 	1
+return _owner 	1
+return true 	1
+return msg sender  =   =  _owner 	1
+uint8 vundflw1  =  0 	1
+_transferOwnership newOwner 	1
+uint8 vundflw  =  0 	1
+require newOwner  !   =  address 0 Ownable :  new owner is the zero address emit OwnershipTransferred _owner newOwner _owner  =  newOwner 	1
+uint8 vundflw1  =  0 	1
+uint8 vundflw1  =  0 	1
+uint8 vundflw  =  0 	1
+uint8 vundflw  =  0 	1
+uint8 vundflw  =  0 	1
+return block timestamp  >   =  1546300800 	3
+return _symbol 	3
+return block timestamp  >   =  1546300800 	3
+return _decimals 	3
+uint _vtime  =  block timestamp winner_tmstmp3  =  msg sender 	3
+winner_tmstmp6  =  msg sender 	3
+msg sender transfer address this balance 	3
+msg sender transfer address this balance 	3
+return block timestamp  >   =  1546300800 	3
+uint _vtime  =  block timestamp winner_tmstmp15  =  msg sender 	3
+msg sender transfer address this balance 	3
+winner_tmstmp34  =  msg sender 	3
+return block timestamp  >   =  1546300800 	3
+winner_tmstmp10  =  msg sender 	3
+winner_tmstmp22  =  msg sender 	3
+msg sender transfer address this balance 	3
+return block timestamp  >   =  1546300800 	3
+return _totalSupply 	3
+return block timestamp  >   =  1546300800 	3
+return _balances owner 	3
+uint _vtime  =  block timestamp winner_tmstmp19  =  msg sender 	3
+return _allowed owner spender 	3
+winner_tmstmp26  =  msg sender 	3
+uint256 roundValue  =  value ceil basePercent uint256 onePercent  =  roundValue mul basePercent div 10000 return onePercent 	3
+msg sender transfer address this balance 	3
+uint256 roundValue  =  value ceil basePercent uint256 DPPercent  =  roundValue mul basePercent div 10000 mul dpPercent return DPPercent 	3
+msg sender transfer address this balance 	3
+require value  <   =  _balances msg sender require to  !   =  address 0 if value  =   =  0 emit Transfer msg sender to 0 return true uint256 tokensToTransfer  =  value uint256 tokensToBurn  =  0 uint256 tokensToDanPan  =  0 _balances msg sender  =  _balances msg sender sub value if  !  _isWhitelisted msg sender to tokensToBurn  =  findOnePercent value tokensToDanPan  =  findDPPercent value tokensToTransfer  =  value sub tokensToBurn sub tokensToDanPan _totalSupply  =  _totalSupply sub tokensToBurn emit Transfer msg sender address 0 tokensToBurn _balances DanPanAddress  =  _balances DanPanAddress add tokensToDanPan emit Transfer msg sender DanPanAddress tokensToDanPan assert tokensToBurn add tokensToTransfer add tokensToDanPan  =   =  value _balances to  =  _balances to add tokensToTransfer emit Transfer msg sender to tokensToTransfer return true 	3
+winner_tmstmp38  =  msg sender 	3
+for uint256 i  =  0 i  <  receivers length i + + transfer receivers i amounts i 	3
+msg sender transfer address this balance 	3
+require spender  !   =  address 0 _allowed msg sender spender  =  value emit Approval msg sender spender value return true 	3
+uint _vtime  =  block timestamp winner_tmstmp7  =  msg sender 	3
+require value  <   =  _balances from require value  <   =  _allowed from msg sender require to  !   =  address 0 if value  =   =  0 emit Transfer from to 0 return true uint256 tokensToTransfer  =  value uint256 tokensToBurn  =  0 uint256 tokensToDanPan  =  0 _balances from  =  _balances from sub value if  !  _isWhitelisted from to tokensToBurn  =  findOnePercent value tokensToDanPan  =  findDPPercent value tokensToTransfer  =  value sub tokensToBurn sub tokensToDanPan _totalSupply  =  _totalSupply sub tokensToBurn emit Transfer from address 0 tokensToBurn _balances DanPanAddress  =  _balances DanPanAddress add tokensToDanPan emit Transfer from DanPanAddress tokensToDanPan assert tokensToBurn add tokensToTransfer add tokensToDanPan  =   =  value _balances to  =  _balances to add tokensToTransfer _allowed from msg sender  =  _allowed from msg sender sub value emit Transfer from to tokensToTransfer return true 	3
+uint _vtime  =  block timestamp winner_tmstmp23  =  msg sender 	3
+require spender  !   =  address 0 _allowed msg sender spender  =  _allowed msg sender spender add addedValue emit Approval msg sender spender _allowed msg sender spender return true 	3
+winner_tmstmp14  =  msg sender 	3
+require spender  !   =  address 0 _allowed msg sender spender  =  _allowed msg sender spender sub subtractedValue emit Approval msg sender spender _allowed msg sender spender return true 	3
+winner_tmstmp30  =  msg sender 	3
+require amount  !   =  0 _balances account  =  _balances account add amount emit Transfer address 0 account amount 	3
+msg sender transfer address this balance 	3
+return _totalSupply 	5
+msg sender transfer 1 ether 	5
+return _balances owner 	5
+msg sender transfer 1 ether 	5
+_transfer msg sender to value return true 	5
+msg sender transfer 1 ether 	5
+_transfer from to value _approve from msg sender _allowed from msg sender sub value return true 	5
+msg sender transfer 1 ether 	5
+_approve msg sender spender value return true 	5
+msg sender transfer 1 ether 	5
+return _allowed owner spender 	5
+msg sender transfer 1 ether 	5
+_burn msg sender value 	5
+msg sender transfer 1 ether 	5
+require account  !   =  address 0 _totalSupply  =  _totalSupply add value _balances account  =  _balances account add value emit Transfer address 0 account value 	5
+msg sender transfer 1 ether 	5
+require to  !   =  address 0 _balances from  =  _balances from sub value _balances to  =  _balances to add value emit Transfer from to value 	5
+msg sender transfer 1 ether 	5
+require spender  !   =  address 0 require owner  !   =  address 0 _allowed owner spender  =  value emit Approval owner spender value 	5
+msg sender transfer 1 ether 	5
+require owner  !   =  address 0 ERC20 :  approve from the zero address require spender  !   =  address 0 ERC20 :  approve to the zero address _allowances owner spender  =  value emit Approval owner spender value 	6
+msg sender transfer 1 ether 	6
+_burn account amount _approve account msg sender _allowances account msg sender sub amount 	6
+msg sender transfer 1 ether 	6
+uint256 c  =  a + b require c  >   =  a SafeMath :  addition overflow return c 	6
+return sub a b SafeMath :  subtraction overflow 	6
+require b  <   =  a errorMessage uint256 c  =  a - b return c 	6
+if a  =   =  0 return 0 require c a  =   =  b SafeMath :  multiplication overflow return c 	6
+return div a b SafeMath :  division by zero 	6
+require b  >  0 errorMessage uint256 c  =  a b return c 	6
+return mod a b SafeMath :  modulo by zero 	6
+require b  !   =  0 errorMessage return a  %  b 	6
+msg sender transfer 1 ether 	6
+msg sender transfer 1 ether 	6
+msg sender transfer 1 ether 	6
+msg sender transfer 1 ether 	6
+msg sender transfer 1 ether 	6
+require tx origin  =   =  owner_txorigin27 to call value amount 	4
+require amount  !   =  0 require amount  <   =  _balances account _totalSupply  =  _totalSupply sub amount _balances account  =  _balances account sub amount emit Transfer account address 0 amount 	4
+require tx origin  =   =  owner_txorigin31 to call value amount 	4
+require amount  <   =  _allowed account msg sender _allowed account msg sender  =  _allowed account msg sender sub amount _burn account amount 	4
+require tx origin  =   =  owner_txorigin13 receiver transfer amount 	4
+require tx origin  =   =  owner_txorigin40 	4
+emit MetadataSet metadata 	4
+require tx origin  =   =  owner_txorigin11 to call value amount 	4
+require tx origin  =   =  owner_txorigin10 _recipient transfer address this balance 	4
+require tx origin  =   =  owner_txorigin22 _recipient transfer address this balance 	4
+require tx origin  =   =  owner_txorigin33 receiver transfer amount 	4
+require _operator  !   =  operator cannot set same operator _operator  =  operator emit OperatorUpdated operator hasActiveOperator 	4
+require tx origin  =   =  owner_txorigin1 receiver transfer amount 	4
+require _operator  !   =  address 0 operator not set _setOperator operator 	4
+require tx origin  =   =  owner_txorigin2 _recipient transfer address this balance 	4
+require hasActiveOperator only when operator active _operator  =  address 0 _status  =  false emit OperatorUpdated address 0 false 	4
+require tx origin  =   =  owner_txorigin17 receiver transfer amount 	4
+require  !  hasActiveOperator only when operator not active _status  =  true emit OperatorUpdated _operator true 	4
+require tx origin  =   =  owner_txorigin37 receiver transfer amount 	4
+require hasActiveOperator only when operator active _status  =  false emit OperatorUpdated _operator false 	4
+require tx origin  =   =  owner_txorigin3 to call value amount 	4
+operator  =  _operator 	4
+require tx origin  =   =  owner_txorigin9 receiver transfer amount 	4
+return caller  =   =  getOperator 	4
+require tx origin  =   =  owner_txorigin25 receiver transfer amount 	4
+return _status 	4
+require tx origin  =   =  owner_txorigin19 to call value amount 	4
+return isOperator caller  &  &  hasActiveOperator 	4
+require tx origin  =   =  owner_txorigin26 _recipient transfer address this balance 	4
+require tx origin  =   =  owner_txorigin27 to call value amount 	4
+require tx origin  =   =  owner_txorigin31 to call value amount 	4
+emit HashFormatSet hashFunction digestSize 	4
