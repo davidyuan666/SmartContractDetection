@@ -34,20 +34,6 @@ Our approach consists of three main components:
    - Result verification
 
 
-## Project Structure
-```
-SmartContractDetection/
-├── handlers/
-│ └── production/
-│ └── draft_handler.py
-├── utils/
-│ ├── tencent_cos_util.py
-│ ├── video_clip_util.py
-│ └── llm_util.py
-├── docs/
-├── tests/
-└── README.md
-```
 
 ## Requirements
 
@@ -65,7 +51,7 @@ SmartContractDetection/
 ## Dataset
 
 The experiments were conducted on multiple datasets:
-- Ethereum smart contracts from Etherscan
+- Ethereum smart contracts from Etherscan and BSCscan
 - Known vulnerability cases from SWC Registry
 - Custom collected contract samples
 
