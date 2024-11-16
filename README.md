@@ -33,9 +33,6 @@ Our approach consists of three main components:
    - Vulnerability classification
    - Result verification
 
-## Installation
-
-
 
 ## Project Structure
 ```
