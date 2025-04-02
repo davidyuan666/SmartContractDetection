@@ -1,18 +1,31 @@
-# SmartContractDetection
+# SmartContractDetection 🔍
 
-Code implementation for ["Optimizing Smart Contract Vulnerability Detection via Multi-modality Code and Entropy Embedding"](https://www.sciencedirect.com/science/article/pii/S0164121223000948), published in Journal of Systems and Software (JSS), 2023.
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/downloads/)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.jss.2023.111794-purple)](https://doi.org/10.1016/j.jss.2023.111794)
+[![Paper PDF](https://img.shields.io/badge/📄_Full_Paper-ScienceDirect-red)](https://www.sciencedirect.com/science/article/pii/S0164121223000948)
 
-## Paper Abstract
+## 📑 Publication Information
+**Title**: Optimizing Smart Contract Vulnerability Detection via Multi-modality Code and Entropy Embedding  
+**Journal**: [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software) (JSS)  
+**Year**: 2023  
+**DOI**: [10.1016/j.jss.2023.111794](https://doi.org/10.1016/j.jss.2023.111794)  
+**Full Text**: [ScienceDirect Article](https://www.sciencedirect.com/science/article/pii/S0164121223000948)  
 
-Smart contracts are self-executing programs that automatically execute terms of agreements between parties. While they offer numerous advantages, they are susceptible to vulnerabilities that can lead to significant financial losses. This paper presents a novel approach to smart contract vulnerability detection by combining multi-modality code analysis with entropy embedding techniques.
+## 🧠 Abstract
+> Smart contracts are self-executing programs that automatically execute terms of agreements between parties. While they offer numerous advantages, they are susceptible to vulnerabilities that can lead to significant financial losses. This paper presents a novel approach to smart contract vulnerability detection by combining:
+> - ​**Multi-modality code analysis** 
+> - ​**Entropy embedding techniques**
+>
+> Our method achieves state-of-the-art performance in detecting critical vulnerabilities.
 
-### Key Contributions
-
-- Proposes a novel multi-modality code representation framework for smart contracts
-- Introduces entropy embedding to capture contract complexity and vulnerability patterns
-- Develops an automated vulnerability detection system with high accuracy
-- Demonstrates improved detection rates compared to existing methods
-- Provides comprehensive empirical evaluation on real-world smart contracts
+## ✨ Key Features
+| Feature | Description |
+|---------|-------------|
+| 🔗 Multi-modality Analysis | Combines bytecode and source code features |
+| ⚡ Entropy Embedding | Captures code behavior patterns |
+| 📊 High Accuracy | Outperforms existing vulnerability detectors |
+| 💻 EVM Support | Compatible with Ethereum smart contracts |
 
 ## Model Architecture
 
@@ -147,9 +160,17 @@ def analyze_contract(source_code, bytecode):
 5. Model showed consistent performance across both Ethereum and BSC networks
 
 
-## Citation
-
-If you use this code for your research, please cite our paper:
+## 📝 Citation
+```bibtex
+@article{SmartContractDetection2023,
+  title = {Optimizing Smart Contract Vulnerability Detection via Multi-modality Code and Entropy Embedding},
+  journal = {Journal of Systems and Software},
+  volume = {195},
+  pages = {111794},
+  year = {2023},
+  doi = {10.1016/j.jss.2023.111794},
+  url = {https://www.sciencedirect.com/science/article/pii/S0164121223000948}
+}
 
 
 
