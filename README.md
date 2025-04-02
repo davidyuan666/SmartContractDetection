@@ -2,14 +2,14 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/downloads/)
-[![DOI](https://img.shields.io/badge/DOI-10.1016/j.jss.2023.111794-purple)](https://doi.org/10.1016/j.jss.2023.111794)
-[![Paper PDF](https://img.shields.io/badge/📄_Full_Paper-ScienceDirect-red)]([https://www.sciencedirect.com/science/article/pii/S0164121223000948](https://www.sciencedirect.com/science/article/pii/S0164121223000948))
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jss.2023.111699-purple)](https://doi.org/10.1016/j.jss.2023.111699)
+[![Paper PDF](https://img.shields.io/badge/📄_Full_Paper-ScienceDirect-red)](https://www.sciencedirect.com/science/article/pii/S0164121223000948)
 
 ## 📑 Publication Information
 **Title**: Optimizing Smart Contract Vulnerability Detection via Multi-modality Code and Entropy Embedding  
 **Journal**: [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software) (JSS)  
 **Year**: 2023  
-**DOI**: [10.1016/j.jss.2023.111794](https://doi.org/10.1016/j.jss.2023.111794)  
+**DOI**: [10.1016/j.jss.2023.111699](https://doi.org/10.1016/j.jss.2023.111699)  
 **Full Text**: [ScienceDirect Article](https://www.sciencedirect.com/science/article/pii/S0164121223000948)  
 
 ## 🧠 Abstract
@@ -166,9 +166,9 @@ def analyze_contract(source_code, bytecode):
   title = {Optimizing Smart Contract Vulnerability Detection via Multi-modality Code and Entropy Embedding},
   journal = {Journal of Systems and Software},
   volume = {195},
-  pages = {111794},
+  pages = {111699},
   year = {2023},
-  doi = {10.1016/j.jss.2023.111794},
+  doi = {10.1016/j.jss.2023.111699},
   url = {https://www.sciencedirect.com/science/article/pii/S0164121223000948}
 }
 
