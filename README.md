@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/downloads/)
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.jss.2023.111794-purple)](https://doi.org/10.1016/j.jss.2023.111794)
-[![Paper PDF](https://img.shields.io/badge/📄_Full_Paper-ScienceDirect-red)](https://www.sciencedirect.com/science/article/pii/S0164121223000948)
+[![Paper PDF](https://img.shields.io/badge/📄_Full_Paper-ScienceDirect-red)]([https://www.sciencedirect.com/science/article/pii/S0164121223000948](https://www.sciencedirect.com/science/article/pii/S0164121223000948))
 
 ## 📑 Publication Information
 **Title**: Optimizing Smart Contract Vulnerability Detection via Multi-modality Code and Entropy Embedding  
